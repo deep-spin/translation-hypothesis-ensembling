@@ -8,9 +8,9 @@ main(){
     bleurt_env= # insert bleurt env
     bleurt_dir= # insert bleurt dir
     
-    for source_lang in 'German' 'Russian' 'Czech' 'Ukrainian'
+    for target_lang in 'German' 'Russian' 'Czech' 'Ukrainian'
     do
-        target_lang='English'
+        source_lang='English'
         n_samples=1
         temperature=0.1
         prompt=1
