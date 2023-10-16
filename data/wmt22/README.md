@@ -1,0 +1,1 @@
+To get the dataset, please visit: https://github.com/wmt-conference/wmt22-news-systems/tree/main/txt. Store the `sources` and `references` folders under `data/wmt22`.
